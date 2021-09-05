@@ -47,10 +47,6 @@ You got a sample JSON format from your friend about the objects that you need to
     - After a new card is created the values from input boxes are cleared
     - If the 2nd or 3rd input content is not a number or the 1st input is empty when pressing the `Add New Card` button a new card is NOT added but the values from the inputs are still cleared
 
-## General requirements
-
-None
-
 ## Hints
 
 - once you start the project you first need to install the react library with `npm install`
